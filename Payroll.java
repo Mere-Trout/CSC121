@@ -13,6 +13,8 @@ static int num = 0;
 static int hrs;
 static double wage;
 static double totalPay;
+/*This is a program that utilizes arrays to verify that an account exists so the user can input
+their job details and calculates their total pay*/
 
 
 public static void main(String args[])
